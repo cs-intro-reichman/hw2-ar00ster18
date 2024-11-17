@@ -19,6 +19,6 @@ public class CalcPi {
 
 		double out = 4*sum;
 
-		System.out.println("pi, approximated:" + out);
+		System.out.println("pi, approximated:     " + out);
 	}
 }
